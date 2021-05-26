@@ -1,0 +1,64 @@
+.first{
+	background-color: #EF4587;
+}
+.second2{
+	background-color: #9E445A;
+}
+.nav-link {
+  display: block;
+  padding: 0.5rem 1rem;
+  color: white;
+}
+#browse{
+	color: black;
+}
+.head{
+	font-weight: bolder;
+ }
+ .third{
+ 	background-color: #1F1C1A;
+ }
+footer{
+	background-color: #000000;
+}
+.card{
+	padding: 4px 10px 4px 14px
+}
+.card-body .price{
+	margin-top: -20px;
+}
+span.naira{
+	text-decoration: double line-through;
+}
+.second1 a:hover{
+	background-color:white;
+	color: black !important;
+	text-decoration: none;
+}
+.second1:hover{
+	background-color:white;
+	
+}
+.ass{
+	/*#FFDEFF*/
+	background-color: #EFEFDE;
+}
+.infin{
+	background-color: white;
+}
+.categories{
+	background-color: #9E445A;
+}
+.categories div{
+}
+.categories div a{
+	text-decoration: none;
+	color: white;
+
+}
+.name:hover{
+	background-color: white;
+	color: black;
+	padding: 4px;
+}
+
